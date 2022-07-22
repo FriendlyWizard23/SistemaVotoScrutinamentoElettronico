@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="735.0" prefWidth="874.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="progetto.controllers.elettore.votaSessioneController.java">
+   <children>
+      <Label fx:id="lblIDSessione" alignment="TOP_CENTER" contentDisplay="CENTER" layoutX="98.0" layoutY="38.0" text="ID SESSIONE: " textAlignment="CENTER">
+         <font>
+            <Font name="Consolas Bold" size="30.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="progetto.models.results.RisultatoCategoricoCandidato" 
+    project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/results/RisultatoCategoricoCandidato.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="336" x="3491" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="progetto.models.results.RisultatoCategoricoPartito" 
+    project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/results/RisultatoCategoricoPartito.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="300" x="2132" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="progetto.models.results.RisultatoCategoricoPreferenza" 
+    project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/results/RisultatoCategoricoPreferenza.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="342" x="3109" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="progetto.models.results.RisultatoGeneric" project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/results/RisultatoGeneric.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="180" x="3491" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="progetto.models.results.RisultatoOrdinaleCandidato" 
+    project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/results/RisultatoOrdinaleCandidato.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="392" x="4532" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="progetto.models.results.RisultatoOrdinalePartito" 
+    project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/results/RisultatoOrdinalePartito.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="356" x="4136" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="progetto.models.results.RisultatoReferendum" project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/results/RisultatoReferendum.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="229" x="3867" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="progetto.models.Sessioni.Candidato" project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Sessioni/Candidato.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="459" width="186" x="2472" y="927"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="progetto.models.Sessioni.ListaCandidati" project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Sessioni/ListaCandidati.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="225" x="2472" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="progetto.models.Sessioni.PartecipanteSessione" 
+    project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Sessioni/PartecipanteSessione.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="150" x="2321" y="1426"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="11" language="java" name="progetto.models.Sessioni.Partito" project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Sessioni/Partito.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="169" x="2169" y="927"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="progetto.models.Sessioni.SessioneVoto" project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Sessioni/SessioneVoto.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="585" width="332" x="2737" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="progetto.models.Utenti.ABSUtente" project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Utenti/ABSUtente.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="146" x="5050" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="progetto.models.Utenti.Elettore" project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Utenti/Elettore.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="129" x="5136" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="progetto.models.Utenti.Gestore" project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Utenti/Gestore.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="132" x="4964" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="progetto.models.Votazioni.VotoCategoricoCandidato" 
+    project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Votazioni/VotoCategoricoCandidato.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="237" x="253" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="progetto.models.Votazioni.SchedaBianca" project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Votazioni/SchedaBianca.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="171" x="42" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="progetto.models.Votazioni.VotoCategoricoPartito" 
+    project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Votazioni/VotoCategoricoPartito.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="236" x="881" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="progetto.models.Votazioni.VotoCategoricoPreferenza" 
+    project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Votazioni/VotoCategoricoPreferenza.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="342" x="1750" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="progetto.models.Votazioni.VotoGeneric" project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Votazioni/VotoGeneric.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="184" x="1096" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="progetto.models.Votazioni.VotoOrdinaleCandidato" 
+    project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Votazioni/VotoOrdinaleCandidato.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="311" x="530" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="progetto.models.Votazioni.VotoOrdinalePartito" 
+    project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Votazioni/VotoOrdinalePartito.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="290" x="1420" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="progetto.models.Votazioni.VotoReferendum" project="Elezioni_Scrutinamenti_2022" 
+    file="/Elezioni_Scrutinamenti_2022/src/main/java/progetto/models/Votazioni/VotoReferendum.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="223" x="1157" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="27">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="28" name="lp"/>      
+      <multiplicity id="29" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association id="32">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="33" name="sv"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="36" name="lc"/>      
+      <multiplicity id="37" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="38">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association id="42">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="43" name="p"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="46">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="47" name="partitolista"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="49">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="50">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <generalization id="51">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="52">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="53" name="candidati"/>      
+      <multiplicity id="54" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="56">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="57">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="58" name="sv"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="61" name="cs"/>      
+      <multiplicity id="62" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="63">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="20"/>  
+  </generalization>  
+  <association id="64">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="65" name="lc"/>      
+      <multiplicity id="66" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="67">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
